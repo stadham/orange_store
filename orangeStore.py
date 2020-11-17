@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 #Quarter one exam
 import random
 import time
